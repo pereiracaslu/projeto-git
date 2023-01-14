@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento
 
 ````
-Código feito apenas para controle de versionamento
+Desenvolvido apenas para o controle de versionamento
 ````
